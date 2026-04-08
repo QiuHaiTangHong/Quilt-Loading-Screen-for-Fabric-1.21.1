@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "quilt_loading_screen",
+	"version": "${version}",
+	"name": "Quilt Loading Screen",
+	"description": "Makes the Minecraft loading screen have QuiltMC patches",
+	"authors": [
+		"hibi",
+		"triphora",
+		"darkerbit",
+		"秋海棠红"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/quilt-loading-screen",
+		"issues": "https://github.com/hibiii/quilt_loading_screen/issues",
+		"sources": "https://github.com/hibiii/quilt_loading_screen"
+	},
+	"license": "MIT",
+	"icon": "assets/quilt_loading_screen/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.emmacypress.quilt_loading_screen.client.ClientInit"
+		]
+	},
+	"mixins": [
+		{
+			"config": "quilt_loading_screen.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.6",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
