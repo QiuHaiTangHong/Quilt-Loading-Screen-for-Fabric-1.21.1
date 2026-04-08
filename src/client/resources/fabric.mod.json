@@ -12,8 +12,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/quilt-loading-screen",
-		"issues": "https://github.com/hibiii/quilt_loading_screen/issues",
-		"sources": "https://github.com/hibiii/quilt_loading_screen"
+		"issues": "https://github.com/QiuHaiTangHong/Quilt-Loading-Screen-for-Fabric-1.21.1/issues",
+		"sources": "https://github.com/QiuHaiTangHong/Quilt-Loading-Screen-for-Fabric-1.21.1"
 	},
 	"license": "MIT",
 	"icon": "assets/quilt_loading_screen/icon.png",
