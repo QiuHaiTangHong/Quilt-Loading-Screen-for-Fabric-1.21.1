@@ -1,0 +1,9 @@
+{
+  "quilt_loading_screen.support": "支持作者",
+  "quilt_loading_screen.midnightconfig.title": "Quilt 风加载界面配置",
+  "quilt_loading_screen.midnightconfig.prideQuiltsEnabled": "强制启用彩虹色 Logo (无需等到六月)",
+  "quilt_loading_screen.midnightconfig.modifyBackgroundColor": "将背景颜色从红色更改为紫色",
+  "quilt_loading_screen.midnightconfig.modifyBackgroundColor.tooltip": "如果启用了 单色 Logo 则此项无效。\n修改后需要重启游戏才能生效。",
+  "quilt_loading_screen.resource_pack.name": "更真实的 Quilt 加载界面资源包",
+  "quilt_loading_screen.resource_pack.description": "使加载界面更接近 Quilt 的风格"
+}
